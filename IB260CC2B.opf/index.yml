@@ -1,0 +1,104 @@
+id: 794eedd06bfb44c3ba12cd15675b5916
+annotation_type: index
+revision: '00001'
+annotations:
+  581443881585474481d785472c79e376:
+    base: f005E.txt
+    span:
+      start: 0
+      end: 68
+  2d9e94b6dcf8489ba52face847ce0006:
+    base: f1493.txt
+    span:
+      start: 0
+      end: 318
+  3e29f6afd0974f7e91ce79ad636290f5:
+    base: f2159.txt
+    span:
+      start: 0
+      end: 323
+  dee279ad64094fee828a6d2dc7bc10c4:
+    base: f3548.txt
+    span:
+      start: 0
+      end: 952
+  62fa6ff719cf4cf194627fb230b7985f:
+    base: f3572.txt
+    span:
+      start: 0
+      end: 353
+  ee33202f49264863afaadc2975a12074:
+    base: f3667.txt
+    span:
+      start: 0
+      end: 222
+  bec292f6bf68403caec2b3f120a3714b:
+    base: f4331.txt
+    span:
+      start: 0
+      end: 267
+  ba633d7ed3914f2ab141a03e3b4a7a5a:
+    base: f4451.txt
+    span:
+      start: 0
+      end: 200
+  aaa70466cdd648a1808dba08e69b19a7:
+    base: f6332.txt
+    span:
+      start: 0
+      end: 444
+  6dfec5e2fa94477ea976d57c1ece55c4:
+    base: f7818.txt
+    span:
+      start: 0
+      end: 11
+  48cb2bda9c484815a8e77f947f3c554a:
+    base: f845E.txt
+    span:
+      start: 0
+      end: 116
+  c2a1daef637749e7b9f26414dd6471f2:
+    base: f84D7.txt
+    span:
+      start: 0
+      end: 255
+  8e5cdf4e4ce04267a026c17d292040ca:
+    base: f85BF.txt
+    span:
+      start: 0
+      end: 199
+  ffe409c2078640409dd0745b36e534d5:
+    base: f8777.txt
+    span:
+      start: 0
+      end: 206
+  2ac72f0bfac74869ad43ce522ffbda62:
+    base: fB36C.txt
+    span:
+      start: 0
+      end: 265
+  f9a626cda1f4445ba9aa2ae65d71e65c:
+    base: fB3C4.txt
+    span:
+      start: 0
+      end: 270
+  4b32403f164040f99dde197ae5c6268c:
+    base: fB4B0.txt
+    span:
+      start: 0
+      end: 220
+  2afc25061b0e46cd9bf0442e6344cc91:
+    base: fC7C0.txt
+    span:
+      start: 0
+      end: 395
+  2061c658a5cb47be8224dbd81b31211a:
+    base: fDC5D.txt
+    span:
+      start: 0
+      end: 226
+  d074c767445b450483c0765cda017a8d:
+    base: fF602.txt
+    span:
+      start: 0
+      end: 983
